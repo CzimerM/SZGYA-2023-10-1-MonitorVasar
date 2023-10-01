@@ -1,0 +1,7 @@
+Keszleten levo monitorok
+Samsung;S24D330H;24;33000 
+Acer;V227Qbi;21.5;31000 
+AOC;24G2U;23.8;66000 
+Samsung;Odyssey G9 C49g95TSSU;49;449989;gamer
+LG;25UM58-P;25;56000 
+Samsung;C27JG50QQU;27.5;91000 
