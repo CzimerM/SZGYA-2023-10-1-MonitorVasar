@@ -163,7 +163,7 @@ namespace monitorvasar20230925
             //12. Csökkentsd a legdrágább monitor bruttó árát 10%-kal, írd ki ezt az értéket a képernyőre.
             Console.WriteLine("12.feladat");
             var legdragabb = keszlet.Find(k => k.monitor.Ar == keszlet.Max(k => k.monitor.Ar));
-            Console.WriteLine($"legdragabb.monitor.ArBrutto * 0.90 Ft");
+            Console.WriteLine($"{legdragabb.monitor.ArBrutto * 0.90} Ft");
 
             Console.ReadKey();
         }
